@@ -1,0 +1,1 @@
+This folder contains a schematic of how your project should look.
